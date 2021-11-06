@@ -85,6 +85,7 @@ nav {
     background-color:skyblue;
     transition:all 1s;
     margin-top:65px;
+    display:none;
 }
 
 #title {
