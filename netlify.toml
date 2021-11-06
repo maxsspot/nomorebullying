@@ -21,7 +21,7 @@
         Cross-Origin-Embedder-Policy = "unsafe-none"
         Vary = "Upgrade-Insecure-Requests"
         Strict-Transport-Security = '''
-            max-age=31536000
+            max-age=31536000;
             includeSubDomains;
         '''
         Content-Security-Policy = '''
