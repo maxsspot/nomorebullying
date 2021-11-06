@@ -8,6 +8,11 @@ body {
     text-align:center;
 }
 
+#back {
+	background-color:transparent;
+	border:transparent;
+}
+
 a {
 	text-decoration:none;
 }
