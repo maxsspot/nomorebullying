@@ -1,1 +1,1 @@
-url.split("?")[0];
+window.location.href = window.location.origin + window.location.pathname;
