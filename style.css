@@ -9,6 +9,10 @@ body {
 	font-weight:300;
 }
 
+h1, h2 {
+	font-weight:300;
+}
+
 img {
 	width:350px;
 	height:300px;
