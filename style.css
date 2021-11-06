@@ -9,6 +9,10 @@ body {
 	font-weight:300;
 }
 
+#share {
+	margin:5px;
+}
+
 h1, h2 {
 	font-weight:300;
 }
