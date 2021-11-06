@@ -1,1 +1,1 @@
-url.split('?')[0] 
+url.split("?")[0];
