@@ -1,1 +1,1 @@
-window.location.href = window.location.origin + window.location.pathname;
+window.history.replaceState(null, null, window.location.pathname);
