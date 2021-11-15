@@ -10,7 +10,7 @@
         <script src = "script.js" async></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel = "icon" href = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_563580.png&f=1&nofb=1" type = "image/x-icon" crossorigin>
-		    <title>Stop The Bullying - Make Options Known.</title>
+		    <title>Stop The Bullying - Make options known.</title>
 	</head>
 	<body>
 		<nav>
@@ -32,9 +32,9 @@
         <br>
     <h1>Make Options Known.</h1>
 		<br>
-		<a href = "mailto:?subject=Stop The Bullying - Make Options Known.&body=https://stopthebullying.us/make-options-known" target = "_blank" id = "share"><i class = "fas fa-envelope fa-lg"></i></a>
-            	<a href = "sms://+?body=Stop The Bullying - Make Options Known. https://stopthebullying.us/make-options-known" target = "_blank" id = "share"><i class = "fas fa-sms fa-lg"></i></a>       
-           	<a href = "https://twitter.com/intent/tweet?text=Stop The Bullying - Make Options Known. https://stopthebullying.us/make-options-known" target = "_blank" id = "share"><i class = "fab fa-twitter fa-lg"></i></a>
+		<a href = "mailto:?subject=Stop The Bullying - Make options known.&body=https://stopthebullying.us/make-options-known" target = "_blank" id = "share"><i class = "fas fa-envelope fa-lg"></i></a>
+            	<a href = "sms://+?body=Stop The Bullying - Make options known. https://stopthebullying.us/make-options-known" target = "_blank" id = "share"><i class = "fas fa-sms fa-lg"></i></a>       
+           	<a href = "https://twitter.com/intent/tweet?text=Stop The Bullying - Make options known. https://stopthebullying.us/make-options-known" target = "_blank" id = "share"><i class = "fab fa-twitter fa-lg"></i></a>
 		<a style = "margin-left:5px;" href = "https://www.facebook.com/sharer/sharer.php?u=https://stopthebullying.us/make-options-known&amp;src=sdkpreparse" target = "_blank" id = "share"><i class = "fab fa-facebook fa-lg"></i></a>
 		<br>
 		<br>
