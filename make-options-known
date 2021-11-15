@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang = "en-us">
+	<head>
+        <link href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.0/css/all.min.css" rel = "stylesheet" async>
+        <link rel = "preconnect" href="https://fonts.googleapis.com">
+        <link rel = "preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href = "https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
+        <meta charset = "UTF-8">
+        <link rel = "stylesheet" type = "text/css" href = "style.css" async>
+        <script src = "script.js" async></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel = "icon" href = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_563580.png&f=1&nofb=1" type = "image/x-icon" crossorigin>
+		    <title>Stop The Bullying - Make Options Known.</title>
+	</head>
+	<body>
+		<nav>
+            <!--
+            <a id = "nav" onclick = "nav()"><i class = "fas fa-grip-lines fa-lg"></i></a>
+            <a id = "close" onclick = "hide()"><i class = "fas fa-times fa-lg"></i></a>
+            -->
+            <label id = "title">Stop The Bullying</label>
+        </nav>
+        <div id = "navigation">
+            <button id = "navbutton">Home</button>
+            <button id = "navbutton">About</button>
+            <button id = "navbutton">Contact</button>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    <h1>Make Options Known.</h1>
+		<br>
+		<a href = "mailto:?subject=Stop The Bullying - Make Options Known.&body=https://stopthebullying.us/make-options-known" target = "_blank" id = "share"><i class = "fas fa-envelope fa-lg"></i></a>
+            	<a href = "sms://+?body=Stop The Bullying - Make Options Known. https://stopthebullying.us/make-options-known" target = "_blank" id = "share"><i class = "fas fa-sms fa-lg"></i></a>       
+           	<a href = "https://twitter.com/intent/tweet?text=Stop The Bullying - Make Options Known. https://stopthebullying.us/make-options-known" target = "_blank" id = "share"><i class = "fab fa-twitter fa-lg"></i></a>
+		<a style = "margin-left:5px;" href = "https://www.facebook.com/sharer/sharer.php?u=https://stopthebullying.us/make-options-known&amp;src=sdkpreparse" target = "_blank" id = "share"><i class = "fab fa-facebook fa-lg"></i></a>
+		<br>
+		<br>
+    <img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tVb09AkYlkRMZybpZoNlVgHaEK%26pid%3DApi&f=1">
+	<br>
+	<br>
+		<p id = "des">As a school district it's important to let students know their options to report bullying. You could let them know in ways such as the loudspeaker or via email. Letting students know their options and letting them feel comfortable makes on one step closer to <b>Stop The Bullying</b>.</p> 
+		<form action = "index">
+			<br>
+			<button id = "back">Return home</button>
+		</form>
+		<br>
+	</body>
+</html>
