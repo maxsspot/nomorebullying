@@ -9,6 +9,11 @@ body {
 	font-weight:300;
 }
 
+img {
+    border-radius:5px;
+    border:black solid 1px;
+}
+
 #share {
 	margin:5px;
 	color:grey;
